@@ -4,14 +4,14 @@ Aceasta este o aplicație web interactivă construită cu **Streamlit** și **Py
 
 ##  Funcționalități Principale
 
-* ** Adăugare Investiții**: Introduci simbolul activului (ex: `AAPL`, `TSLA`), cantitatea și prețul de achiziție, iar aplicația preia automat prețul curent la zi.
-* ** Ștergere Investiții**: Elimină ușor activele pe care nu le mai deții.
-* ** Vizualizare Portofoliu**:
+* * Adăugare Investiții**: Introduci simbolul activului (ex: `AAPL`, `TSLA`), cantitatea și prețul de achiziție, iar aplicația preia automat prețul curent la zi.
+* * Ștergere Investiții**: Elimină ușor activele pe care nu le mai deții.
+* * Vizualizare Portofoliu**:
     * Afișează un tabel detaliat cu toate investițiile.
     * Calculează valoarea totală a portofoliului și profitul/pierderea.
     * Suport multi-valută: Poți vizualiza portofoliul în **RON**, **EUR** sau **USD**.
     * Grafic interactiv (Bar chart) care arată ponderea fiecărui activ în funcție de valoarea totală.
-* ** Export în Excel**: Descarcă întregul portofoliu într-un fișier `.xlsx` cu coloane auto-ajustate pentru un format curat.
+* * Export în Excel**: Descarcă întregul portofoliu într-un fișier `.xlsx` cu coloane auto-ajustate pentru un format curat.
 
 ##  Tehnologii Utilizate
 
