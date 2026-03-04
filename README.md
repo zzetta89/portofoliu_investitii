@@ -22,9 +22,3 @@ Aceasta este o aplicație web interactivă construită cu **Streamlit** și **Py
 * [Matplotlib](https://matplotlib.org/) - Pentru generarea graficelor.
 * [Openpyxl](https://openpyxl.readthedocs.io/) - Pentru exportul datelor în format Excel.
 
-##  Instalare și Rulare
-
-### 1. Clonează repository-ul
-```bash
-git clone [https://github.com/username-ul-tau/numele-repo-ului.git](https://github.com/username-ul-tau/numele-repo-ului.git)
-cd numele-repo-ului
